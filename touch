@@ -1,0 +1,4 @@
+class java2
+{
+system.out .println("good morning");
+}
