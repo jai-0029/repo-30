@@ -1,6 +1,0 @@
-class jai
-{
-publc static void main(strings args)
-System.out.println("hello jai");
-}
-
